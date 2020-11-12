@@ -45,6 +45,7 @@ gem 'rubocop-performance', '~> 1.8', '>= 1.8.1'
 gem 'simplecov', '~> 0.19.1'
 gem 'simplecov-html', '~> 0.12.3'
 gem 'docile', '~> 1.3', '>= 1.3.2'
+gem "slackify"
 
 group :development, :test do
   gem 'sqlite3'
